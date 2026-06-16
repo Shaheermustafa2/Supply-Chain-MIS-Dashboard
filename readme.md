@@ -23,3 +23,6 @@
 * ##### Conditional Formatting
 * ##### Business KPI Reporting
 
+Dashboard Preview
+---
+![Page 1](https://github.com/Shaheermustafa2/Ecommerce-End-to-End-Data-Pipeline/blob/main/PowerBi/Screenshots/Page1.png)
