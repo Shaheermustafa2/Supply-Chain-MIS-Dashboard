@@ -25,4 +25,4 @@
 
 ### Dashboard Preview
 ---
-![Page 1](https://github.com/Shaheermustafa2/Supply-Chain-MIS-Dashboard/tree/main/Screenshot)
+![Page 1](https://github.com/Shaheermustafa2/Supply-Chain-MIS-Dashboard/blob/main/Screenshot/SupplyChainDashboard.png)
